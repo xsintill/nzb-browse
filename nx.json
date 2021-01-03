@@ -22,5 +22,13 @@
       }
     }
   },
-  "projects": {}
+  "projects": {
+    "nzb-browse": {
+      "tags": []
+    },
+    "nzb-browse-e2e": {
+      "tags": [],
+      "implicitDependencies": ["nzb-browse"]
+    }
+  }
 }
